@@ -125,5 +125,5 @@ if(rsi[-1]>=30 and rsi[-2]<70):
 dt = datetime.datetime.now()
 #print(close_str)
 #print(dt)
-#plt.show()
-#plt.xticks()
+plt.show()
+plt.xticks()
